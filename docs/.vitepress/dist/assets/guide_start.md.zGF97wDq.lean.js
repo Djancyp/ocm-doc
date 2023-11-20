@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as e,R as n}from"./chunks/framework.S3DELXIw.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/start.md","filePath":"guide/start.md"}'),l={name:"guide/start.md"},p=n("",15),o=[p];function c(t,r,i,d,h,u){return a(),e("div",null,o)}const _=s(l,[["render",c]]);export{E as __pageData,_ as default};
