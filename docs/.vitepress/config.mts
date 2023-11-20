@@ -11,6 +11,7 @@ export default defineConfig({
             { text: "Home", link: "/" },
             { text: "Guide", link: "/guide/" },
             { text: "Links", link: "/links/" },
+            { text: "Test", link: "/links/" },
         ],
 
         sidebar: [
@@ -25,9 +26,5 @@ export default defineConfig({
                 ],
             },
         ],
-
-        // socialLinks: [
-        //   { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' }
-        // ]
     },
 })
