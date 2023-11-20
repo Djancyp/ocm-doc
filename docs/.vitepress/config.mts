@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress"
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     title: "Enigen OCM development",
-    description: "Quide to quick start with OCM development",
+    description: "quick start with OCM development",
     base:"/ocm-doc/",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
@@ -11,7 +11,6 @@ export default defineConfig({
             { text: "Home", link: "/" },
             { text: "Guide", link: "/guide/" },
             { text: "Links", link: "/links/" },
-            { text: "Test", link: "/links/" },
         ],
 
         sidebar: [
