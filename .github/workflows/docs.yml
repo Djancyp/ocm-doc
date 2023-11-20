@@ -38,7 +38,9 @@ jobs:
               run: pnpm docs:build
 
             - name: List files in build directory
-              run: ls -R docs/.vuepress/dist
+              run: ls -la
+            - name: Output the key
+              run: echo ${{secrets.TOKEN}}
             # please check out the docs of the workflow for more details
             # @see https://github.com/crazy-max/ghaction-github-pages
             - name: Deploy to GitHub Pages
