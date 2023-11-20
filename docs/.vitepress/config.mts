@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress"
 export default defineConfig({
     title: "Enigen OCM development",
     description: "Quide to quick start with OCM development",
-    base:"/enigen-ocm-doc/",
+    base:"/ocm-doc/",
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
