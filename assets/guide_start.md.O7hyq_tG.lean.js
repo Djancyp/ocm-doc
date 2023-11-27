@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as i,R as e}from"./chunks/framework.MrHiNA-C.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide/start.md","filePath":"guide/start.md"}'),t={name:"guide/start.md"},n=e("",15),l=[n];function p(h,r,c,o,k,d){return a(),i("div",null,l)}const E=s(t,[["render",p]]);export{g as __pageData,E as default};
